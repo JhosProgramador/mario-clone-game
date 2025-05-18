@@ -24,7 +24,7 @@ Proyecto educativo creado para aprender:
 ## ⚙️ **Instalación**  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/mario-clone-game.git
+   git clone https://github.com/JhosProgramador/mario-clone-game.git
 
 2. Instala Pygame (requiere Python 3.6+):
 
